@@ -45,7 +45,7 @@ def test_circle():
 
     assert area == 1661.9025137490005
 
-    # TODO сосчитайте длину окружности
+    # TODO сосчитайте длину окружности.
     length = 2*math.pi*r
 
     assert length == 144.51326206513048
